@@ -1,5 +1,5 @@
 # AluraCAR
-Xamarin part 1 : Crie aplicativos mobile com Visual Studio
+Xamarin aplicativo mobile com Visual Studio
 
 
 ![image](https://github.com/adriano-r/AluraCAR/assets/53664407/373a050f-9954-4f41-97be-517dde58e150)
